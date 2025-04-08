@@ -1,6 +1,6 @@
 {
   "name": "case-swap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility to recursively convert the keys of JavaScript objects and arrays of objects to a specified case (camelCase, snake_case, kebab-case, or PascalCase).",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,5 @@
     "type": "git",
     "url": "git+https://github.com/technotastic/case-swap.git"
   },
- "homepage": "https://github.com/technotastic/case-swap#readme"
+  "homepage": "https://github.com/technotastic/case-swap#readme"
 }
